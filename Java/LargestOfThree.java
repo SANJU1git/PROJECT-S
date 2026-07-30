@@ -20,7 +20,6 @@ public class LargestOfThree {
         }
 
         System.out.println("Largest = " + largest);
-
         sc.close();
     }
 }
